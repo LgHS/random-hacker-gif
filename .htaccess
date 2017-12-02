@@ -1,0 +1,4 @@
+RewriteEngine On
+
+# You need this so you can use a `.gif` in your DokuWiki link (required)
+RewriteRule ^.*$ index.php [L]
